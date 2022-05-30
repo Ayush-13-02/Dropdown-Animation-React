@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Dropdown-Animation-React/static/css/main.30596cc4.css",
+    "main.js": "/Dropdown-Animation-React/static/js/main.f1f021cf.js",
+    "static/js/787.baa84452.chunk.js": "/Dropdown-Animation-React/static/js/787.baa84452.chunk.js",
+    "static/media/tp.mp4": "/Dropdown-Animation-React/static/media/tp.98f19102a3a1ca18d369.mp4",
+    "static/media/lib-vedio.mp4": "/Dropdown-Animation-React/static/media/lib-vedio.f77c831549c29f37cae5.mp4",
+    "static/media/comp.mp4": "/Dropdown-Animation-React/static/media/comp.1a6acf95afffa2f6acd3.mp4",
+    "static/media/iic.mp4": "/Dropdown-Animation-React/static/media/iic.bc3e5690e4975d9d91e5.mp4",
+    "static/media/wshop.mp4": "/Dropdown-Animation-React/static/media/wshop.63594e2a6a5cc37a51aa.mp4",
+    "index.html": "/Dropdown-Animation-React/index.html",
+    "main.30596cc4.css.map": "/Dropdown-Animation-React/static/css/main.30596cc4.css.map",
+    "main.f1f021cf.js.map": "/Dropdown-Animation-React/static/js/main.f1f021cf.js.map",
+    "787.baa84452.chunk.js.map": "/Dropdown-Animation-React/static/js/787.baa84452.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.30596cc4.css",
+    "static/js/main.f1f021cf.js"
+  ]
+}
